@@ -1,0 +1,3 @@
+[submodule "src/ros2-benchmark"]
+	path = src/ros2-benchmark
+	url = https://github.com/dashecc/ros2-benchmark.git
